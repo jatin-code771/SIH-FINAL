@@ -36,7 +36,7 @@ const CAMERA_SEEDS: CameraSeed[] = [
     zoneId: 'z-dwarka',
     position: [77.034794, 28.609012],
     weight: 1.4,
-    videoUrl: '/videos/IMG_7318.MOV',
+    videoUrl: '/videos/IMG_7318.mp4',
   },
   {
     id: 'c-node-2',
